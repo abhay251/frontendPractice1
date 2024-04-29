@@ -2,4 +2,4 @@
 <br>
 |This is my frontend practice project.
 <br>
-Here I'll be cloning a specimen webpage from <a href = "https://www.frontendpractice.com/projects/abstract" target = ""> here </a>
+Here I'll be cloning a specimen webpage from <a href = "https://www.frontendpractice.com/projects/abstract" target = "_blank"> here </a>
