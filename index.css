@@ -1,0 +1,69 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    height: 15vh;
+    background-color: #000000;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#logo{
+    background-image:url("logo.png");
+    background-size: contain;
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+#abstract{
+    font-size: 2rem;
+    color: #ffffff;
+    font-weight: bold;
+    margin-right: 10px;
+}
+#partition{
+    height: 40%;
+    width: 3px;
+    background-color: #ffffff;
+}
+#helpCenter{
+    color: #ffffff;
+    font-size: 2rem;
+    padding-left: 10px;
+
+}
+#space
+{
+    width: 35%;
+}
+#request{
+    height: 30%;
+    background-color: #272727;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+#signIn{
+    height: 30%;
+    background-color: #4c5fd5;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 1.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-left: 20px;
+}
+#heroSec{
+    background-color: #dadbf1;
+    height: 67.8vh;
+    width: 100%;
+}
